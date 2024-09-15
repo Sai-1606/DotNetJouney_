@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSWOlwnf8B8OAADcPWQoyFYsqOYEfnm6lrWEieZDuiGoRPaO2NnZ/xbv2jNTU2ERZLyJhO1iPwEZcltYKCBXvg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\TASKTRACKER\\TASKTRACKER\\TASKTRACKER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saik021RP15\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
