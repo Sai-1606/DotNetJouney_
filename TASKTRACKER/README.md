@@ -9,5 +9,5 @@ List all tasks that are done
 List all tasks that are not done
 List all tasks that are in progress
 
-[Project URL](https://github.com/Sai-1606/DotNetJouney_/new/main/TASKTRACKER)
+[https://github.com/Sai-1606/DotNetJouney_/tree/main/TASKTRACKER]
 
