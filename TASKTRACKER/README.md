@@ -9,5 +9,4 @@ List all tasks that are done
 List all tasks that are not done
 List all tasks that are in progress
 
-[[https://github.com/Sai-1606/DotNetJouney_/tree/main/TASKTRACKER](https://roadmap.sh/projects/task-tracker)]
-
+[https://roadmap.sh/projects/task-tracker]
